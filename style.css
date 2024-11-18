@@ -8,6 +8,8 @@ body {
 }
 
 .card {
+    letter-spacing: 1px;
+    font-size: 1.2rem;
    width: 400px;
     margin-left: auto;
     margin-right: auto;
@@ -18,4 +20,6 @@ body {
     background-color:#ddebf8;
     color:#2b2839;
     border-bottom: 5px solid #d8cefe;
+    border-radius: 20px;
+    text-shadow: #2b2839 1px 1px 1px;
 }
